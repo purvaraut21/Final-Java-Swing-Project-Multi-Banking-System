@@ -49,4 +49,4 @@ MultiBankingSystem/
 ├── resources/               # Icons, styles, etc.
 ├── database/                # SQL files or flat file storage
 ├── README.md
-└── LICENSE
+└── 
