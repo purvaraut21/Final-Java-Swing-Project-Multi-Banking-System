@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The **Multi-Banking System** is a desktop-based application built using **Core Java** and **Java Swing**. It provides a centralized interface for managing multiple bank accounts, performing basic banking operations like deposit, withdrawal, balance check, fund transfer, and viewing transaction history.
+The **Multi-Banking System** is a web-based application built using **Core Java** and **Java Swing**. It provides a centralized interface for managing multiple bank accounts, performing basic banking operations like deposit, withdrawal, balance check, fund transfer, and viewing transaction history.
 
 
 
